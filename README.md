@@ -9,6 +9,8 @@
 - Edad: 21 años
 
 ## información sobre el equipo
+| Dato | Descripción |
+| --- | --- |
 | Nombre del dispositivo |	LAPTOP-J497TRQ1 |
 | Procesador |	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz |
 | RAM instalada	| 4.00 GB|
